@@ -1,27 +1,22 @@
 <h1 align="center">☠️ You were hacked by Gan-SAIG ☠️</h1>
 <h3 align="center">😎 World's most stupid Computer Engineer 😎</h3>
+<h6 align="center">📖 Computer Engineering, King Mongkut's Institute of Technology Ladkrabang 📖</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganthepro&label=Profile%20views&color=0e75b6&style=flat" alt="ganthepro" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganthepro" alt="ganthepro" /></a> </p>
 
 - 🔭 I’m currently working on **many project.**
-
 - 🌱 I’m currently learning **Typescript, Next.JS and C++ for Microcontroller.**
-
 - ❤️ Status : **Single**
-
 - 🤝 I’m looking for help with **CSS.**
-
 - ⚡ Fun fact **I like to do something stupid.**
-
 - 💬 Ask me about **Object Oriented Programming.**
-
 - 📫 How to reach me **ganzazamar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/tamtikorn kietipungchai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tamtikorn kietipungchai" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100003850463696" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tamtikorn kietipungchai" height="30" width="40" /></a>
 <a href="https://instagram.com/gan_gun112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gan_gun112" height="30" width="40" /></a>
 </p>
 
