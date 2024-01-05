@@ -7,10 +7,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganthepro" alt="ganthepro" /></a> </p>
 
 - 🔭 I’m currently working on **many project.**
-- 🌱 I’m currently learning **Typescript, Next.JS and C++ for Microcontroller.**
+- 🌱 I’m currently learning **Typescript, Tailswind and C++.**
 - ❤️ Status : **Single**
 - 🤝 I’m looking for help with **CSS.**
-- ⚡ Fun fact **I like to do something stupid.**
+- ⚡ Fun fact **I like to do something useless .**
 - 💬 Ask me about **Object Oriented Programming.**
 - 📫 How to reach me **ganzazamar@gmail.com**
 <h3 align="left">Connect with me:</h3>
