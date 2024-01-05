@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Typescript, Tailswind and C++.**
 - ❤️ Status : **Single**
 - 🤝 I’m looking for help with **CSS.**
-- ⚡ Fun fact **I like to do something useless .**
+- ⚡ Fun fact **I like to do something useless.**
 - 💬 Ask me about **Object Oriented Programming.**
 - 📫 How to reach me **ganzazamar@gmail.com**
 <h3 align="left">Connect with me:</h3>
