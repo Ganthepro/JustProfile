@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently working on **many project.**
 - 🌱 I’m currently learning **Typescript, Tailswind and C++.**
-- ❤️ Status : **Single**
 - 🤝 I’m looking for help with **CSS.**
 - ⚡ Fun fact **I like to do something useless.**
 - 💬 Ask me about **Object Oriented Programming.**
