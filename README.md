@@ -1,5 +1,5 @@
 <h1 align="center">☠️ You were hacked by Gan-SAIG ☠️</h1>
-<h3 align="center">😎 World's cutest Computer Engineer 😎</h3>
+<h3 align="center">😎 I'm an Engineer 😎</h3>
 <h6 align="center">📖 Computer Engineering, King Mongkut's Institute of Technology Ladkrabang 📖</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganthepro&label=Profile%20views&color=0e75b6&style=flat" alt="ganthepro" /> </p>
