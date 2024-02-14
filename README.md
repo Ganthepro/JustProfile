@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on **many project.**
 - 🌱 I’m currently learning **Typescript, Tailswind and C++.**
 - 🤝 I’m looking for help with **CSS.**
-- ⚡ Fun fact **I like to do something useless.**
 - 💬 Ask me about **Object Oriented Programming.**
 - 📫 How to reach me **ganzazamar@gmail.com**
 <h3 align="left">Connect with me:</h3>
