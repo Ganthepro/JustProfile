@@ -7,7 +7,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganthepro" alt="ganthepro" /></a> </p>
 
 - 🔭 I’m currently working on **many project.**
-- 🌱 I’m currently learning **TypeScript, Tailswind and C++.**
 - 🤝 I’m looking for help with **CSS.**
 - 💬 Ask me about **Object Oriented Programming.**
 - 📫 How to reach me **ganzazamar@gmail.com**
