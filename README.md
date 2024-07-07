@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently working on **many project.**
 - 🤝 I’m looking for help with **CSS.**
-- 💬 Ask me about **Object Oriented Programming.**
 - 📫 How to reach me **ganzazamar@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
